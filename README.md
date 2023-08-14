@@ -5,7 +5,7 @@ BSc project at Leiden University for performing phylogenetic placement on the ba
   3. Visualization of the results
 
 Supervisors:
-+ Prof. F. Verbeek (LIACS)
++ Prof. Dr. Ir F. Verbeek (LIACS)
 + Dr. R. Vos (Naturalis)
 
 ## Find the correct subtree based on the results of BLAST
